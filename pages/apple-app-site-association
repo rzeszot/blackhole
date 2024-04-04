@@ -1,0 +1,21 @@
+{
+  "app_links": {
+    "details": [
+      {
+        "appIDs": [
+          "98W95Y6GJC.com.toyota.oneapp.eu",
+          "DVTUBRLY7J.com.toyota.oneapp.eu.ent",
+        ],
+        "components": [
+          {
+            "#": "no_universal_links",
+            "exclude": true
+          },
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
